@@ -1,9 +1,7 @@
 fileFormatVersion: 2
 guid: 887ace1f2ee6f5c43a592b35984b556a
-timeCreated: 1551178049
-licenseType: Free
 ModelImporter:
-  serializedVersion: 19
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: default
     100002: default_MeshPart0
@@ -69,10 +67,138 @@ ModelImporter:
     4300018: default_MeshPart9
     4300020: default_MeshPart10
     4300022: default_MeshPart11
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crystall
+    second: {fileID: 2100000, guid: 03e0c8cbff3fcf24cbb100eb6943777a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deflector_Inside
+    second: {fileID: 2100000, guid: 013270fce21099c48859dbd457b6218e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deflectors_Outside
+    second: {fileID: 2100000, guid: 81085388cd012b3429164a7d7a40de5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Diode_Green
+    second: {fileID: 2100000, guid: 8e188ee2244f2c5489d97920a256e944, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Diode_Red
+    second: {fileID: 2100000, guid: d50e014d38da8ce449a418117f92ed33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Diode_Yellow
+    second: {fileID: 2100000, guid: e96a787556e8f784099f286680b67645, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Evacs
+    second: {fileID: 2100000, guid: 563e4da088d977144b939fb20bf3e7a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hull_Blue
+    second: {fileID: 2100000, guid: 91bcef0f3ae006c4ab2aa80bdec319e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hull_Brown
+    second: {fileID: 2100000, guid: 06ff78fbeb54f8b40b4921fd1c0d28ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hull_Federation
+    second: {fileID: 2100000, guid: 8011dc9f172b6574b97771f3d080006a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hull_Grey
+    second: {fileID: 2100000, guid: d71e075b5de78a742a87ee6bff9104ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hull_Grey_NCC-1307-lock-left-side.png
+    second: {fileID: 2100000, guid: f775ff27060fe5346a9808307423df94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hull_Grey_NCC-1307-top.png
+    second: {fileID: 2100000, guid: 77a833f3e55df774ba32affe053808ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hull_Main
+    second: {fileID: 2100000, guid: 5f23174690ea20240a48aed678a38bb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hull_Main_NCC-1307-down.png
+    second: {fileID: 2100000, guid: d904d3f01f500dc4781930333a367f21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hull_Main_NCC-1307-lock-left-side.png
+    second: {fileID: 2100000, guid: 5b6dbf9779f372c41a6f955a93fd46d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hull_Main_NCC-1307-top.png
+    second: {fileID: 2100000, guid: b795c29b4b721de4e9a3c5ca72c56d10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hull_Phas
+    second: {fileID: 2100000, guid: 212a216667aa0c846b3c9b43d0079244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hull_Phas_NONE
+    second: {fileID: 2100000, guid: 7d7ff072f7c53a941b2eb17f15e01799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hull_Red
+    second: {fileID: 2100000, guid: b3a7692d2b3a9d84a8cf85e84005630e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hull_Red_NCC-1307-top.png
+    second: {fileID: 2100000, guid: 7378c2656cdf03e4cafefa5c3df6739e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Impulse_Inside
+    second: {fileID: 2100000, guid: b2701eb538d64d34dbee5b8eb8f2b22a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Impulse_Outside
+    second: {fileID: 2100000, guid: 59d7549ad2e017a44b263e8ffb6b00d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows
+    second: {fileID: 2100000, guid: bc3ac19522fc1d64396cf20c47d1bf02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows_Dark
+    second: {fileID: 2100000, guid: 24f304c2009782c41a372c13c21a891d, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -85,12 +211,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -98,22 +227,34 @@ ModelImporter:
     globalScale: 1
     meshCompression: 3
     addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -128,7 +269,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
