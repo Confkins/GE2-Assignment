@@ -43,6 +43,7 @@ ModelImporter:
     2300018: default_MeshPart7
     2300020: default_MeshPart8
     2300022: default_MeshPart9
+    2300024: default
     3300000: default_MeshPart0
     3300002: default_MeshPart1
     3300004: default_MeshPart10
@@ -55,6 +56,7 @@ ModelImporter:
     3300018: default_MeshPart7
     3300020: default_MeshPart8
     3300022: default_MeshPart9
+    3300024: default
     4300000: default_MeshPart0
     4300002: default_MeshPart1
     4300004: default_MeshPart2
@@ -67,6 +69,7 @@ ModelImporter:
     4300018: default_MeshPart9
     4300020: default_MeshPart10
     4300022: default_MeshPart11
+    4300024: default
     2186277476908879412: ImportLogs
   externalObjects:
   - first:
@@ -225,7 +228,7 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 3
+    meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
     importVisibility: 0
@@ -236,10 +239,10 @@ ModelImporter:
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
-    keepQuads: 0
-    weldVertices: 0
+    keepQuads: 1
+    weldVertices: 1
     preserveHierarchy: 0
-    indexFormat: 1
+    indexFormat: 2
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
