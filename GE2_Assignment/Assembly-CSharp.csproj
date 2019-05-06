@@ -64,9 +64,12 @@
     <Compile Include="Assets\CameraMove1.cs" />
     <Compile Include="Assets\CameraMove2.cs" />
     <Compile Include="Assets\CameraMovement.cs" />
+    <Compile Include="Assets\GalaxyBox2\Scripts\examplescene.cs" />
+    <Compile Include="Assets\GalaxyBox2\Scripts\MouseLook.cs" />
     <Compile Include="Assets\OffsetPursue.cs" />
     <Compile Include="Assets\Seek.cs" />
     <Compile Include="Assets\SteeringBehaviour.cs" />
+    <None Include="Assets\GalaxyBox2\instructions.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/College/GE2/GE2_Assignment/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
